@@ -1,0 +1,41 @@
+@@ -0,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>MoPe TOS!</title>
+</head>
+<body>
+
+<h1>MoPe TOS!</h1>
+
+<h2>Bot Privacy Policy</h2>
+
+<p>MoPe Develoupement! (“we”, “our”, “us”) respects and protects the privacy of all users regarding our services, which include the MoPe Discord Bot ("MoPe", "bot", "service"). Any inquires or concerns about our privacy policy should be Messaged to ery#0001 or made a ticket in out support server! <a href="https://discord.gg/VWYGqbUAng">https://discord.gg/VWYGqbUAng</a></p>
+
+<h2>Information Collected</h2>
+
+<p>We may collect data whenever you interact with the bot, which may or may not be deemed personal, to provide our service(s) as efficiently as possible, and also for statistical purposes. We NEVER collect data that is not directly correlated with our service. Collected data may include:</p>
+
+<ul>
+  <li>server configuration (server ID and your bot settings)</li>
+  <li>command logs (command used, user ID, channel ID, server ID, relevant info such as message content or interaction data)</li>
+  <li>player logs (all changes with the server's music player, user IDs of listeners)</li>
+  <li>error logs (all data that is relevant to the error, which may include server ID and user ID)</li>
+</ul>
+
+<h2>Data Security</h2>
+
+<p>Our team places high value on the needs of our users, and as such, we're happy to assure you that any information we may collect is secure.</p>
+
+<p>We never distribute or in any way expose collected data to a third party.</p>
+
+<p>We reserve the right to access and distribute collected data if we have probable cause to believe you are a threat to our service(s) or if we are asked to do so by law enforcement.</p>
+
+<h1>Acceptance of Policy</h1>
+
+<p>By utilizing MoPe and interacting with our service, you thereby agree to our privacy policy and give us consent to collect the data priorly mentioned. Continued use of our service further signifies your acceptance of our policies.</p>
+
+<p>If you do not accept all or part of our policy, we ask that you do not use our service.</p>
+
+</body>
+</html>
